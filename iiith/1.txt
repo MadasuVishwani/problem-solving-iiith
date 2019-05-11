@@ -1,10 +1,6 @@
 download
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 vishwani
 google
 >>>>>>> 77aa58b1f1404461e6c4a22fd9b2a228c6e82954
-=======
-vishwani
->>>>>>> parent of 3b85727... Revert "Update 1.txt"
